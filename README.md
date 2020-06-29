@@ -2,4 +2,4 @@
 
 ruby
 ruby on rails
-awsにて環境構築してデプロイ
+awsにて環境構築したサーバーにデプロイ
